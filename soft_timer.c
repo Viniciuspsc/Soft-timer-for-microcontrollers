@@ -1,5 +1,4 @@
- * @brief Implementation of Software Timer.
- */
+//Implementation of Software Timer.
 #include <stdlib.h>
 #include <stdint.h>
 #include <stdbool.h>
